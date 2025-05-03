@@ -4,10 +4,14 @@ Shunting-Yard algorithm to convert infix expressions to postfix, followed by a p
 
 Easy Navigation:
 
-ActivityMain file path: app/src/main/java/com/example/simplecalculator/MainActivity.kt
+MainActivity.kt file path: app/src/main/java/com/example/simplecalculator/MainActivity.kt
+
+ActivityMain.xml path: app/src/main/res/layout/activity_main.xml
 
 📌 TODOs
+
  -> Support custom themes and history of calculations
+ 
  -> Addition of scientific or programming calculator modes
 
 Contributions, suggestions, and issues are welcome! Feel free to fork the project and create pull requests.

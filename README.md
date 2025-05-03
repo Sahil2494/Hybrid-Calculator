@@ -1,6 +1,7 @@
 Hybrid calculator is my first android project which implements basic mathematical operations and some standard operations as well.
 Designed with a user-friendly XML-based interface.
 Shunting-Yard algorithm to convert infix expressions to postfix, followed by a postfix evaluator for accurate calculation results.
+Can refer to about.md for ui picture and other details.
 
 Easy Navigation:
 
